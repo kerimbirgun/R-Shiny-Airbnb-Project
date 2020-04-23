@@ -1,4 +1,7 @@
 # R-Shiny-Airbnb-Project
+
+This a Data Visualization Project with RShiny. The project data is sourced from the Airbnb Data of Manhattan/NY.
+
 Link to Project
 https://kbirgun.shinyapps.io/analytics/
 
